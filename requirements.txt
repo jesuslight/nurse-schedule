@@ -1,0 +1,5 @@
+streamlit
+pandas
+openpyxl
+ortools
+st-gsheets-connection
